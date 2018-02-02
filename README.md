@@ -1,6 +1,6 @@
 # srq >>= Stupid Redis message Queue
 
-It is a so stupid message queue based redis that I think it is ***Simple***
+It is a so stupid message queue based on redis that I think it is ***Simple***
 
 ## Install
 
